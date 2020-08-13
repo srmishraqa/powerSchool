@@ -3,7 +3,7 @@ This Project uses Page Object Model Architecture and integrated with testNG and 
 
 #Steps to use
 
-•	git clone <repo_address>
+• For cloning the repo Please use -> git clone https://github.com/srmishraqa/powerSchool.git
 
 •	Once Cloning is done use -> mvn clean install
 
